@@ -1,0 +1,23 @@
+:root {
+    --primary-text-color: #212121;
+    --title-text-color: #757575;
+    --accent-color: #2196f3;
+    --primery-white-color: #fff;
+    --secondary-bd-color: #f5f4fa;
+    --footer-color: #2f303a;
+    --icon-color: #afb1b8;
+}
+
+.visual-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: 1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+    list-style: none;
+}
