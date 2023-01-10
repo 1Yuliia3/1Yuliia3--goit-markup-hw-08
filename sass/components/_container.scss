@@ -24,3 +24,11 @@
         max-width: 1200px;
     }
    }
+.container-menu{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    @media screen and (min-width:480px) {
+        max-width: 480px;
+    }
+}
